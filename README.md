@@ -1,1 +1,1 @@
-# Sokoban Game
+# Comments and variable begin to be named in Polish

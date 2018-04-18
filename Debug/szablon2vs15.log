@@ -1,0 +1,2 @@
+﻿L:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Project15.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  szablon2vs15.vcxproj -> L:\Users\Bartek\Desktop\PG\PP\Projekt2\Project15\Debug\szablon2vs15.exe

@@ -1,0 +1,6 @@
+5
+random
+poziom1
+poziom2
+poziom3
+poziom4
